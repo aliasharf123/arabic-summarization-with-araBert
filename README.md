@@ -1,4 +1,4 @@
-# arabic-summarization-with-araBert
+# Arabic Text Summarization with AraBert Project Report
 ## **Executive Summary**
 
 The "Arabic Text Summarization with AraBERT" project aimed to harness the power of AraBERT, a transformer-based model, for summarizing Arabic language text. AraBERT was fine-tuned on an Arabic summarization dataset to produce concise and coherent summaries.
